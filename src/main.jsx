@@ -4,7 +4,7 @@ import './index.css'
 import App from './App.jsx'
 import { RouterProvider,createBrowserRouter, createRoutesFromElements,Route } 
 from 'react-router-dom'
-import Layout from './layout.jsx'
+import Layout from './Layout.jsx'
 import Home from './components/home/home.jsx'
 import About from './components/About/About.jsx'
 import Contact from './components/Contacts/contacts.jsx'
